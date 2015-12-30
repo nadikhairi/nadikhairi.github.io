@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  background-color: dodgerblue;
+  height: 300px;
+  width: 250px;
+  margin: 25px;
+  padding: 25px;
+  text-align: center;
+}
+textarea{
+  resize: none;
+}
+div{
+  margin: 15px
+}
