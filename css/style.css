@@ -1,18 +1,13 @@
-*{
-  margin: 0px;
-  padding: 0px;
+.chat-window, .chat-buffer{
+  max-width:400px;
+  margin:10px auto;
 }
-.container{
-  background-color: dodgerblue;
-  height: 300px;
-  width: 250px;
-  margin: 25px;
-  padding: 25px;
-  text-align: center;
+
+.chat-window{
+  height:250px;
+  overflow: scroll;
 }
-textarea{
-  resize: none;
-}
-div{
-  margin: 15px
+
+input{
+  max-width:450px;
 }
