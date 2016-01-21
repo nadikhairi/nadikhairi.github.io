@@ -15,7 +15,7 @@ $(function(){
 
   });
 
-  $(".btn-success").click(function(){
+  $(".btn-info").click(function(){
     var $userText = $userInput.val();
 
     if($userText !== ""){

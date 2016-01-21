@@ -1,4 +1,7 @@
-.chat-window, .chat-buffer{
+body{
+  background-image: url(https://www.xmple.com/wallpaper/white-hexagon-beehive-blue-honeycomb-1920x1080-c2-ffffff-1e90ff-l2-26-321-a-15-f-5.svg);
+}
+.chat-window, .chat-buffer, .chat-title{
   max-width:400px;
   margin:10px auto;
 }
@@ -9,5 +12,9 @@
 }
 
 input{
-  max-width:450px;
+  width:300px;
+}
+.title{
+  color: dodgerblue;
+
 }
